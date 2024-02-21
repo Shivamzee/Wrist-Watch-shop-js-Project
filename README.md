@@ -1,7 +1,7 @@
 
 # Shivamzee
 
-Watch cart HTML CSS Project 
+Wrish Watch cart JAVASCRIPT  HTML CSS Project 
 
 ![Logo](https://i.ibb.co/f2L8Gng/20220716-000953.png)
 
